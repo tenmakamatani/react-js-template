@@ -2,7 +2,6 @@
 
 import React from "react";
 import ReactDOM from "react-dom";
-import axios from "axios";
 import Button from "./component/Button";
 
 class App extends React.Component {
